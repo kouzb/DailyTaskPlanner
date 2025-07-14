@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DailyTaskPlanner</name>
+    </assembly>
+    <members>
+        <member name="T:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.MondayMenu">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.mondayMenu"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.TuesdayMenu">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.tuesdayMenu"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.WednesdayMenu">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.wednesdayMenu"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.ThursdayMenu">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.thursdayMenu"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.FridayMenu">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.fridayMenu"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.SaturdayMenu">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.saturdayMenu"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.SundayMenu">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.sundayMenu"/>
+        </member>
+        <member name="F:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.saveCommand">
+            <summary>The backing field for <see cref="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.SaveCommand"/>.</summary>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.SaveCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:DailyTaskPlanner.ViewModels.MenuPlannerPageViewModel.Save"/>.</summary>
+        </member>
+        <member name="T:DailyTaskPlanner.ViewModels.SettingsPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.SettingsPageViewModel.AreNotificationsEnabled">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.SettingsPageViewModel.areNotificationsEnabled"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.SettingsPageViewModel.SoundEnabled">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.SettingsPageViewModel.soundEnabled"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.SettingsPageViewModel.VibrationEnabled">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.SettingsPageViewModel.vibrationEnabled"/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.SettingsPageViewModel.SelectedReminderTime">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.SettingsPageViewModel.selectedReminderTime"/>
+        </member>
+        <member name="F:DailyTaskPlanner.ViewModels.SettingsPageViewModel.saveCommand">
+            <summary>The backing field for <see cref="P:DailyTaskPlanner.ViewModels.SettingsPageViewModel.SaveCommand"/>.</summary>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.SettingsPageViewModel.SaveCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:DailyTaskPlanner.ViewModels.SettingsPageViewModel.Save"/>.</summary>
+        </member>
+        <member name="T:DailyTaskPlanner.ViewModels.TemplatesPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.TemplatesPageViewModel.Templates">
+            <inheritdoc cref="F:DailyTaskPlanner.ViewModels.TemplatesPageViewModel.templates"/>
+        </member>
+        <member name="F:DailyTaskPlanner.ViewModels.TemplatesPageViewModel.createTemplateCommand">
+            <summary>The backing field for <see cref="P:DailyTaskPlanner.ViewModels.TemplatesPageViewModel.CreateTemplateCommand"/>.</summary>
+        </member>
+        <member name="P:DailyTaskPlanner.ViewModels.TemplatesPageViewModel.CreateTemplateCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:DailyTaskPlanner.ViewModels.TemplatesPageViewModel.CreateTemplate"/>.</summary>
+        </member>
+        <member name="T:DailyTaskPlanner.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.MondayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "MondayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TuesdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TuesdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.WednesdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "WednesdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ThursdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ThursdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FridayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FridayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SaturdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SaturdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SundayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SundayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.AreNotificationsEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "AreNotificationsEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SoundEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SoundEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.VibrationEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "VibrationEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedReminderTime">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedReminderTime" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Templates">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Templates" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.MondayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "MondayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TuesdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TuesdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.WednesdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "WednesdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ThursdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ThursdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FridayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FridayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SaturdayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SaturdayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SundayMenu">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SundayMenu" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.AreNotificationsEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "AreNotificationsEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SoundEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SoundEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.VibrationEnabled">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "VibrationEnabled" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedReminderTime">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedReminderTime" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Templates">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Templates" generated properties.</summary>
+        </member>
+    </members>
+</doc>

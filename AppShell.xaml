@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"  ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:DailyTaskPlanner"
+       xmlns:views="clr-namespace:DailyTaskPlanner.Views"
+    x:Class="DailyTaskPlanner.AppShell">
+
+    <ShellContent
+        Title="Главная"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    
+    <ShellContent
+        Title="Меню на неделю"
+        Icon="menu_icon.png"
+        ContentTemplate="{DataTemplate views:MenuPlannerPage}"
+        Route="MenuPlannerPage" />
+
+    <ShellContent
+        Title="Шаблоны"
+        Icon="template_icon.png"
+        ContentTemplate="{DataTemplate views:TemplatesPage}"
+        Route="TemplatesPage" />
+
+    <ShellContent
+        Title="Настройки"
+        Icon="settings_icon.png"
+        ContentTemplate="{DataTemplate views:SettingsPage}" />
+</Shell>

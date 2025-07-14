@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\views\\templatespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:views\\templatespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\views\\templatespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:views\\templatespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\viewmodels\\templatespageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:viewmodels\\templatespageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\models\\mealtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:models\\mealtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\viewmodels\\menuplannerpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:viewmodels\\menuplannerpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\views\\menuplannerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:views\\menuplannerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\views\\menuplannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:views\\menuplannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\viewmodels\\settingspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:viewmodels\\settingspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kozub\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.82\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\views\\menuplannerpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:views\\menuplannerpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\dailytaskplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:dailytaskplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|c:\\users\\kozub\\source\\repos\\dailytaskplanner\\dailytastplanner\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{4B8516B8-5E40-2D19-0030-C4896239C508}|DailyTaskPlanner.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kozub\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.81\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemplatesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\TemplatesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TemplatesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\TemplatesPage.xaml.cs",
+              "RelativeToolTip": "Views\\TemplatesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:25:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemplatesPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\ViewModels\\TemplatesPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TemplatesPageViewModel.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\ViewModels\\TemplatesPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TemplatesPageViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:24:37.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplatesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\TemplatesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\TemplatesPage.xaml",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\TemplatesPage.xaml",
+              "RelativeToolTip": "Views\\TemplatesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T12:24:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:21:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T08:21:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:00:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Services\\TemplateService.cs",
+              "RelativeDocumentMoniker": "Services\\TemplateService.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Services\\TemplateService.cs",
+              "RelativeToolTip": "Services\\TemplateService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:21:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MealTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Models\\MealTemplate.cs",
+              "RelativeDocumentMoniker": "Models\\MealTemplate.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Models\\MealTemplate.cs",
+              "RelativeToolTip": "Models\\MealTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:22:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuPlannerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\MenuPlannerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MenuPlannerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\MenuPlannerPage.xaml.cs",
+              "RelativeToolTip": "Views\\MenuPlannerPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:12:22.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\ViewModels\\SettingsPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SettingsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\ViewModels\\SettingsPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\SettingsPageViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:22:17.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuPlannerPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\ViewModels\\MenuPlannerPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MenuPlannerPageViewModel.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\ViewModels\\MenuPlannerPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MenuPlannerPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:11:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-09T13:31:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuPlannerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\MenuPlannerPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MenuPlannerPage.xaml",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\MenuPlannerPage.xaml",
+              "RelativeToolTip": "Views\\MenuPlannerPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T11:47:26.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Maui.Controls.targets",
+              "DocumentMoniker": "C:\\Users\\kozub\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.82\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.82\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ToolTip": "C:\\Users\\kozub\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.82\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.82\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAwwKsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-14T11:44:28.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuPlannerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\MenuPlannerPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MenuPlannerPage.xaml",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\MenuPlannerPage.xaml",
+              "RelativeToolTip": "Views\\MenuPlannerPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T11:46:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:27:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T07:27:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Views\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "Views\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:30:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DailyTaskPlanner.csproj",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\DailyTaskPlanner.csproj",
+              "RelativeDocumentMoniker": "DailyTaskPlanner.csproj",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\DailyTaskPlanner.csproj",
+              "RelativeToolTip": "DailyTaskPlanner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T07:19:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:54:44.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:12:30.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:12:29.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:30:28.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:31:43.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:27:24.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\kozub\\source\\repos\\DailyTaskPlanner\\DailyTastPlanner\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-14T08:21:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.Maui.Controls.targets",
+              "DocumentMoniker": "C:\\Users\\kozub\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.81\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.81\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ToolTip": "C:\\Users\\kozub\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.81\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\9.0.81\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwKsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-14T08:22:19.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

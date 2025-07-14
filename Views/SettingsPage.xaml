@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DailyTaskPlanner.Views.SettingsPage"
+             Title="Настройки">
+
+    <ScrollView>
+        <StackLayout Padding="20">
+            <Grid ColumnDefinitions="*,Auto" RowDefinitions="Auto">
+                <Label Text="Общие уведомления"
+                FontSize="18"
+                Margin="0,0,10,10" />
+
+                <Switch 
+                x:Name="NotificationsEnabledSwitch"
+                IsToggled="{Binding AreNotificationsEnabled}"
+                Grid.Column="1"
+                VerticalOptions="Center"
+                HorizontalOptions="End" />
+            </Grid>
+
+            <Grid ColumnDefinitions="*,Auto" RowDefinitions="Auto">
+                <Label Text="Звук уведомления"
+                VerticalOptions="Center" />
+
+                <Switch 
+                x:Name="SoundEnabledSwitch" 
+                IsToggled="{Binding SoundEnabled}" 
+                Grid.Column="1"
+                VerticalOptions="Center" />
+            </Grid>
+
+            <Label Text="Вибрация" FontSize="16" Margin="0,20,0,10"/>
+            <Switch x:Name="VibrationEnabledSwitch" IsToggled="{Binding VibrationEnabled}" />
+
+            <Button Text="Сохранить настройки"
+                    Command="{Binding SaveCommand}"
+                    Margin="0,30,0,0"
+                    BackgroundColor="#4CAF50"
+                    TextColor="White"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
