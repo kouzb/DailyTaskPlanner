@@ -33,7 +33,9 @@ namespace DailyTaskPlanner.ViewModels
                 Tuesday = "Завтрак: ..., Обед: ..., Ужин: ...",
                 Wednesday = "Завтрак: ..., Обед: ..., Ужин: ...",
                 Thursday = "Завтрак: ..., Обед: ..., Ужин: ...",
-                Friday = "Завтрак: ..., Обед: ..., Ужин: ..."
+                Friday = "Завтрак: ..., Обед: ..., Ужин: ...",
+                Saturday = "Завтрак: ..., Обед: ..., Ужин: ...",
+                Sunday = "Завтрак: ..., Обед: ..., Ужин: ...",
             };
 
             await _templateService.SaveTemplateAsync(template);

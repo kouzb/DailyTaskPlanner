@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="DailyTaskPlanner.Views.TemplatesPage"
-             Title="Шаблоны меню">
+             Title="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ">
 
     <StackLayout Padding="20">
         <ListView x:Name="TemplateList"
@@ -13,7 +13,7 @@
                     <ViewCell>
                         <Grid ColumnDefinitions="*,Auto">
                             <Label Text="{Binding Name}" VerticalOptions="Center"/>
-                            <Button Text="Выбрать"
+                            <Button Text="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
                                     Grid.Column="1"
                                     CommandParameter="{Binding .}"
                                     Clicked="OnApplyTemplateClicked"/>
@@ -23,7 +23,7 @@
             </ListView.ItemTemplate>
         </ListView>
 
-        <Button Text="Создать шаблон"
+        <Button Text="пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ"
                 Command="{Binding CreateTemplateCommand}"
                 BackgroundColor="#2196F3"
                 TextColor="White"

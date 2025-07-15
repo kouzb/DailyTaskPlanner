@@ -70,3 +70,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DailyTaskPlanner.Views.TemplatesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\TemplatesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\TemplatesPage.xaml
+
+[C:/Users/kozub/source/repos/DailyTaskPlanner/DailyTastPlanner/Views/WeeklyMealTaskPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DailyTaskPlanner.Views.WeeklyMealTaskPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\WeeklyMealTaskPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\WeeklyMealTaskPage.xaml
